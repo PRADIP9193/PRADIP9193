@@ -75,8 +75,8 @@
 ## 🔝 Top Contributed Repo
 <div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=PradipSable07&limit=5&theme=nord&combine_all_yearly_contributions=true&hide_border=true&align_content=center" /> 
-</div>
-</hr>
 <div align="center">
 	<a href="https://app.daily.dev/pradip_sable"><img src="https://api.daily.dev/devcards/v2/dJXv7DTWJa4m2Hj7zsdF4.png?r=o6m&type=wide" width="652" alt="Pradip Sable's Dev Card"/></a>
 </div>
+</div>
+</hr>
