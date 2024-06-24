@@ -5,6 +5,7 @@
   const greet = () => {
     console.log("Welcome to my GitHub profile!");
     console.log("I'm passionate about crafting digital solutions and embracing continuous learning.");
+    console.log("Learning NextJs and TypeScript.");
     console.log("Let's collaborate, innovate, and make the tech world a better place!");
   };
 
